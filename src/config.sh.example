@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export OPENAI_BASE_URL=""
+export OPENAI_API_KEY=""
+export OPENAI_MODEL=""
+export SHAI_LOG_LEVEL=3
+
